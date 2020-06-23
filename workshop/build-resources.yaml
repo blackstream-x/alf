@@ -14,7 +14,7 @@ spec:
     type: Git
     git:
       ref: master
-      uri: https://github.com/blackstream-x/example-health-jee-openshift.git
+      uri: <YOUR GITHUB URL>
     contextDir: /example-health-api
   strategy:
     type: Docker

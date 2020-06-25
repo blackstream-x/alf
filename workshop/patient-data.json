@@ -1,0 +1,26 @@
+{
+    "patients": [
+        {
+            "Id": "498c0c0f-2ef7-4a25-a5b3-dca47472e3fa", 
+            "BIRTHDATE": "2011-01-16",
+            "DEATHDATE": "",
+            "SSN": "999-99-5908",
+            "DRIVERS": "",
+            "PASSPORT":"",
+            "PREFIX": "",
+            "FIRST": "Karri995",
+            "LAST": "McDermott739",
+            "SUFFIX": "",
+            "MAIDEN": "",
+            "MARITAL": "",
+            "RACE": "white",
+            "ETHNICITY": "swedish",
+            "GENDER": "F", 
+            "BIRTHPLACE": "Santa Barbara California US",
+            "ADDRESS": "508 Donnelly Underpass Unit 8",
+            "CITY": "Costa Mesa",
+            "STATE": "California",
+            "ZIP":"92614"
+        }
+    ]
+}
